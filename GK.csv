@@ -1,0 +1,166 @@
+question_id,Question,Category,Option A,Option B,Option C,Option D,Correct Option,Difficulty,Discrimination
+0,What year was the first modern Olympic Games held?,Sports,1912,1896,1908,1924,Option B,0.5,0.86
+1,Who holds the record for the most Grand Slam men's singles titles in tennis?,Sports,Roger Federer,Rafael Nadal,Novak Djokovic,Andy Murray,Option C,0.45,0.82
+2,"Which former professional basketball player was known as ""The Black Mamba""?",Sports,Michael Jordan,Kobe Bryant,LeBron James,Larry Bird,Option B,0.98,0.76
+3,In what year did the United States host the Winter Olympic Games for the first time?,Sports,1960,1972,1980,1996,Option C,1.8,0.82
+4,Which country won the 2018 FIFA World Cup?,Sports,Brazil,France,Germany,Argentina,Option B,0.72,1
+5,Who holds the record for the most Olympic gold medals in swimming?,Sports,Michael Phelps,Usain Bolt,Simone Biles,Serena Williams,Option A,0.2,0.36
+6,Which country holds the record for the most Olympic gold medals in basketball?,Sports,United States,China,Russia,Australia,Option A,-0.3,0.45
+7,Which country has the most Olympic gold medals in women's figure skating?,Sports,Canada,United States,Russia,Japan,Option B,1.5,1.2
+8,"Who is considered the ""GOAT"" (Greatest of All Time) in Tennis?",Sports,Serena Williams,Roger Federer,Rafael Nadal,Novak Djokovic,Option B,-0.88,0.65
+9,"Who is known as the ""King of Clay"" in the sport of tennis?",Sports,Roger Federer,Novak Djokovic,Rafael Nadal,Andy Murray,Option C,-1,0.24
+10,Who is the only athlete to win Olympic gold in both the summer and winter games?,Sports,Michael Phelps,Usain Bolt,Simone Biles,Eddie Eagan,Option D,1.9,1.3
+11,Who is the all-time leading scorer in NBA history?,Sports,Michael Jordan,LeBron James,Kobe Bryant,Kareem Abdul-Jabbar,Option B,0.65,0.9
+12,What is the nickname of the National Basketball Association team based in Boston?,Sports,Celtics,Lakers,Bulls,Warriors,Option A,-0.65,0.2
+13,How many players are on the field for a regulation game of American football?,Sports,9,11,13,15,Option B,-0.23,0.34
+14,Which of the following countries has won the most FIFA World Cup titles?,Sports,Brazil,Germany,Argentina,Italy,Option A,0,0.45
+15,Which team won the first ever FIFA Women's World Cup in 1991?,Sports,United States,Brazil,Japan,Germany,Option A,1.2,0.8
+16,Who is the only athlete to win the Olympic Gold Medal in both the 100-meter and 200-meter dash three times in a row?,Sports,Usain Bolt,Jesse Owens,Carl Lewis,Michael Johnson,Option A,0.2,0.34
+17,Who was the first African American to win an Olympic gold medal in an individual event?,Sports,Jesse Owens,Wilma Rudolph,Jackie Joyner-Kersee,Usain Bolt,Option A,1.5,1.3
+18,Who won the 2019 World Cup in men's cricket?,Sports,England,India,Australia,New Zealand,Option A,1,1.2
+19,Who won the 2019 FIFA Women's World Cup?,Sports,United States,Brazil,Germany,France,Option A,1,0.85
+20,Who is the current #1 ranked men's tennis player in the world according to the ATP rankings?,Sports,Rafael Nadal,Novak Djokovic,Roger Federer,Andy Murray,Option B,1,1.2
+21,Who was the first female athlete to appear on the cover of Sports Illustrated magazine?,Sports,Serena Williams,Steffi Graf,Billie Jean King,Simone Biles,Option C,1.5,0.75
+22,Which of the following sports is not an Olympic sport?,Sports,Basketball,Swimming,Curling,Rugby,Option D,0.8,1
+23,"Who is known as the ""Queen of the Court"" in the sport of tennis?",Sports,Serena Williams,Maria Sharapova,Simona Halep,Naomi Osaka,Option A,0.4,0.75
+24,In which year did Usain Bolt set the world record for the 100-meter dash?,Sports,2009,2012,2016,2020,Option A,0.87,1.2
+25,Who is the current captain of the US Women's National Soccer Team?,Sports,Megan Rapinoe,Alex Morgan,Carli Lloyd,Julie Ertz,Option A,2.2,1
+26,Which team has won the most Super Bowls in NFL history?,Sports,Dallas Cowboys,Giants Kansas City Chiefs,Pittsburgh Steelers,Green Bay Packers,Option C,1.4,0.98
+27,Who was the first female athlete to run a sub-four minute mile?,Sports,Wilma Rudolph,Florence Griffith Joyner,Jackie Joyner-Kersee,Diane Leather-Roberts,Option D,2.8,1.4
+28,Who holds the record for most career home runs in MLB history?,Sports,Babe Ruth,Barry Bonds,Hank Aaron,Ken Griffey Jr.,Option B,2.4,1.1
+29,Which professional football team won the Super Bowl in 2020?,Sports,Kansas City Chiefs,San Francisco 49ers,New England Patriots,Seattle Seahawks,Option A,1.7,1.3
+30,"In which sport is the term ""grand slam"" used to describe winning all four major tournaments in a single year?",Sports,Tennis,Soccer,Golf,Swimming,Option A,0.2,0.8
+31,Which city hosted the 2016 Summer Olympics?,Sports,"Rio de Janeiro, Brazil","Beijing, China","Tokyo, Japan","Sydney, Australia",Option A,1.4,1.2
+32,Which of the following countries won the most medals in the 2020 Summer Olympics?,Sports,United States,China,Japan,Australia,Option A,0.9,0.86
+33,In what year did Serena Williams become the first tennis player to win all four Grand Slam titles in a single season?,Sports,2011,2014,2015,2017,Option C,2.8,1.4
+34,Who won the first ever FIFA World Cup in 1930?,Sports,Uruguay,Brazil,Italy,Germany,Option A,0.8,1
+35,Who was the first female Prime Minister in the world?,Trivia,Margaret Thatcher,Indira Gandhi,Golda Meir,Sirimavo Bandaranaike,Option D,1.8,1.2
+36,"Which famous landmark is located in Paris, France?",Trivia,Eiffel Tower,Statue of Liberty,Big Ben,Taj Mahal,Option A,-1.2,0.34
+37,"Which American singer is known for her hit song ""Single Ladies (Put a Ring on It)""?",Trivia,Beyoncé,Adele,Taylor Swift,Lady Gaga,Option A,-0.45,0.45
+38,Who was the first female pilot to fly solo across the Atlantic Ocean?,Trivia,Amelia Earhart,Bessie Coleman,Katherine Stinson,Harriet Quimby,Option A,2.5,0.98
+39,In what year did the first color television become available for purchase in the United States?,Trivia,1951,1954,1965,1972,Option B,2.6,1.1
+40,"Who sang the song ""Bohemian Rhapsody""?",Trivia,Queen,The Beatles,Michael Jackson,Elvis Presley,Option A,-0.87,0.4
+41,What is the largest mammal in the world based on weight?,Trivia,African elephant,Blue whale,Polar bear,Hippopotamus,Option B,-0.2,0.34
+42,What is the name of the famous scientist who developed the theory of relativity?,Trivia,Sir Isaac Newton,Galileo Galilei,Albert Einstein,Charles Darwin,Option C,0.2,0.45
+43,Who was the first female astronaut to travel to space?,Trivia,Sally Ride,Mae Jemison,Valentina Tereshkova,Judith Resnik,Option C,0.7,1
+44,"In Greek mythology, who was the god of music?",Trivia,Apollo,Zeus,Ares,Hermes,Option A,1.2,1.1
+45,"Which US state is known as the ""Sunshine State""?",Trivia,Florida,California,Texas,Hawaii,Option A,-0.9,0.75
+46,"What does the acronym ""NASA"" stand for?",Trivia,National Aeronautics and Space Administration,National Association of Space Agencies,National Aerospace and Space Alliance,North American Space Authority,Option A,-0.45,0.44
+47,"Who is the creator of the famous painting ""Starry Night""?",Trivia,Leonardo da Vinci,Claude Monet,Vincent van Gogh,Pablo Picasso,Option C,0.9,0.8
+48,Who was the first woman to win a Nobel Prize?,Trivia,Marie Curie,Mother Teresa,Malala Yousafzai,Margaret Thatcher,Option A,0.65,0.75
+49,What is the largest planet in our solar system by volume?,Trivia,Mars,Jupiter,Earth,Saturn,Option B,0,0.55
+50,What is the capital of Australia?,Trivia,Sydney,Melbourne,Brisbane,Canberra,Option D,0.5,0.9
+51,In which year did the first man walk on the moon?,Trivia,1969,1972,1985,1999,Option A,0.34,0.5
+52,"Which of the following singers released the hit song ""Thriller"" in 1982?",Trivia,Billy Joel,Madonna,Michael Jackson,Prince,Option C,-0.78,0.55
+53,What is the name of the famous Egyptian pharaoh who built the Great Pyramid of Giza?,Trivia,Ramses II,Tutankhamun,Cleopatra,Khufu,Option D,0.89,1
+54,How many players are on a standard soccer team?,Trivia,9,11,13,15,Option B,-1.2,0.65
+55,What is the capital city of Canada?,Trivia,Toronto,Ottawa,Montreal,Vancouver,Option B,-0.8,0.57
+56,Which of the following animals is not a mammal?,Trivia,Elephant,Dolphin,Snake,Gorilla,Option C,-2.2,0.45
+57,Which country is home to the mysterious Stonehenge monument?,Trivia,Italy,Egypt,United States,United Kingdom,Option D,0.45,0.78
+58,Which of these planets is known for its iconic rings?,Trivia,Saturn,Mars,Jupiter,Venus,Option A,-1.5,0.55
+59,Which country has the longest coastline in the world?,Trivia,Canada,Australia,United States,Russia,Option A,0.98,1
+60,Which famous singer famously performed the national anthem at the Super Bowl in 1991?,Trivia,Whitney Houston,Mariah Carey,Beyoncé,Aretha Franklin,Option A,2.8,0.7
+61,What is the capital of Brazil?,Trivia,Rio de Janeiro,Brasilia,Sao Paulo,Salvador,Option B,-0.78,0.6
+62,What is the national flower of Japan?,Trivia,Cherry Blossom,Lotus,Sunflower,Rose,Option A,0.34,0.98
+63,What famous artist painted the Mona Lisa?,Trivia,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci,Michelangelo,Option C,-1.4,0.45
+64,What year did the Titanic sink?,Trivia,1912,1914,1920,1924,Option A,0.89,1.2
+65,What is the most widely spoken language in the world?,Trivia,Mandarin Chinese,English,Spanish,Hindi,Option A,1.2,1.4
+66,In what year did the first iPhone model release?,Trivia,2005,2007,2010,2013,Option B,0.89,0.76
+67,"In Greek mythology, who is the god of wine and parties?",Trivia,Zeus,Apollo,Dionysus,Hades,Option C,1.89,1.1
+68,What type of animal is known for its ability to change colors based on its surroundings?,Trivia,Chameleon,Zebra,Giraffe,Kangaroo,Option A,-1.9,0.5
+69,"Which actress won the Best Actress Academy Award for her role in the film ""Monster's Ball""?",Trivia,Halle Berry,Meryl Streep,Julia Roberts,Nicole Kidman,Option A,1.2,1.1
+70,"Who is known as the ""Father of Geometry""?",Trivia,Albert Einstein,Euclid,Pythagoras,Isaac Newton,Option B,0.75,1.2
+71,Which renowned scientist is credited with the development of the three laws of motion?,Trivia,Isaac Newton,Albert Einstein,Galileo Galilei,Marie Curie,Option A,-0.9,0.67
+72,What is the name of the longest river in South America?,Trivia,Amazon River,Nile River,Volga River,Mississippi River,Option A,-0.2,0.65
+73,"Which city is known as the ""Windy City""?",Trivia,Chicago,New York City,Los Angeles,Miami,Option A,0.2,0.9
+74,Which international organization is responsible for maintaining peace and security among its member countries?,International Affairs,United Nations,European Union,World Trade Organization,International Criminal Court,Option A,-1.35,0.55
+75,Which country is known for having the longest continuous wall built by humans?,International Affairs,China,India,Egypt,Italy,Option A,-1.9,0.67
+76,What is the official currency of Japan?,International Affairs,Yen,Euro,Dollar,Yuan,Option A,-0.44,0.78
+77,What was the subject of the negotiations between North Korea and the United States in 2018?,International Affairs,Nuclear weapons,Trade agreements,Human rights violations,Environmental protection,Option A,0.4,0.9
+78,Which country is not a permanent member of the United Nations Security Council?,International Affairs,China,France,India,Germany,Option C,0.15,0.66
+79,Which country is the largest contributor to the United Nations' regular budget?,International Affairs,United States,China,Germany,Japan,Option A,-0.45,0.7
+80,In which year did the United Nations officially recognize the State of Palestine as a non-member observer state?,International Affairs,1948,1993,2005,2012,Option D,1.67,1.2
+81,"Which country is known as the ""Land of the Rising Sun""?",International Affairs,China,Japan,South Korea,Thailand,Option B,0.4,0.89
+82,What is the name of the international organization that aims to promote economic stability and cooperation among its member countries?,International Affairs,United Nations,World Bank,International Monetary Fund,International Red Cross,Option C,-0.23,0.65
+83,"Which country is part of the ""Five Eyes"" intelligence alliance?",International Affairs,France,Japan,United Kingdom,China,Option C,1.5,1.1
+84,Which country is not a member of the G7 group of nations?,International Affairs,Japan,Russia,Canada,France,Option B,-0.2,0.67
+85,Which country is considered to be the largest economy in Africa?,International Affairs,Egypt,South Africa,Nigeria,Morocco,Option C,0.35,0.8
+86,Which country has the largest economy in the world based on GDP in 2020?,International Affairs,United Kingdom,China,Germany,United States,Option D,-1.7,0.55
+87,In which country is the headquarters of the United Nations located?,International Affairs,Switzerland,United Kingdom,United States,France,Option C,0.24,0.75
+88,Who is the current Secretary-General of the United Nations?,International Affairs,Ban Ki-moon,António Guterres,Kofi Annan,Jacques Delors,Option B,0.82,0.85
+89,Which country is currently facing economic sanctions due to its nuclear program?,International Affairs,Iran,North Korea,Venezuela,Cuba,Option B,0.67,0.76
+90,Which country is currently hosting the 2024 Summer Olympics?,International Affairs,France,Brazil,United States,South Korea,Option A,-0.4,0.77
+91,Which country is currently facing economic sanctions for its involvement in the conflict in Ukraine?,International Affairs,Russia,China,United Kingdom,Brazil,Option A,-1.2,0.69
+92,In what year was the United Nations officially formed?,International Affairs,1945,1955,1965,1975,Option A,0.24,0.56
+93,Who was the first female Prime Minister of the United Kingdom?,International Affairs,Angela Merkel,Theresa May,Margaret Thatcher,Jacinda Ardern,Option C,-0.8,0.61
+94,In which country is the International Criminal Court (ICC) headquartered?,International Affairs,France,Germany,Netherlands,United Kingdom,Option C,1.65,1.3
+95,NATO is an international military alliance formed after World War II. What does NATO stand for?,International Affairs,North African Treaty Organization,Nordic Atlantic Treaty Organization,North American Trade Organization,North Atlantic Treaty Organization,Option D,-0.34,0.7
+96,What is the capital of Japan?,International Affairs,Tokyo,Beijing,Seoul,Singapore,Option A,-1.9,0.55
+97,Which treaty established the European Union (EU)?,International Affairs,Treaty of Rome,Treaty of Versailles,Treaty of Lisbon,Treaty of Maastricht,Option D,1.8,1.2
+98,In which year did the United Nations officially adopt the Universal Declaration of Human Rights?,International Affairs,1948,1954,1962,1972,Option A,2.5,1.5
+99,In which country did the Arab Spring uprising first begin in 2010?,International Affairs,Egypt,Tunisia,Yemen,Bahrain,Option B,1.78,1.4
+100,In which year did the United Nations officially adopt the Sustainable Development Goals (SDGs)?,International Affairs,2015,2010,2005,2020,Option A,2.78,1.13
+101,Which country hosted the 2022 FIFA World Cup?,International Affairs,Qatar,United States,Japan,Brazil,Option A,0.45,0.82
+102,Which country is not a member of the European Union?,International Affairs,Switzerland,France,Germany,United Kingdom,Option A,-0.45,0.76
+103,Which country is currently experiencing the longest ongoing civil war in the world?,International Affairs,Sudan,Syria,Yemen,Afghanistan,Option A,0.41,0.82
+104,What is the capital of South Korea?,International Affairs,Beijing,Tokyo,Seoul,Bangkok,Option C,-1.4,0.74
+105,In which year did the United Kingdom officially leave the European Union (EU)?,International Affairs,2016,2017,2018,2019,Option D,-0.72,0.65
+106,Which country was the first to legalize same-sex marriage?,International Affairs,Netherlands,United States,Australia,Germany,Option A,0.92,0.92
+107,Which of the following is a renewable energy source?,Science and Technology,Coal,Solar,Natural Gas,Oil,Option B,-2.5,0.55
+108,Which of the following is considered the building blocks of all matter?,Science and Technology,Atoms,Cells,Genes,Protons,Option A,-1.9,0.56
+109,Which of the following inventions is considered to be the precursor to modern computers?,Science and Technology,The abacus,The printing press,The steam engine,The telescope,Option A,-1.4,0.67
+110,How many planets are in our solar system?,Science and Technology,6,8,10,12,Option B,-1.78,0.72
+111,What is the process by which light energy from the sun is converted into chemical energy in plants?,Science and Technology,Photosynthesis,Respiration,Fermentation,Combustion,Option A,-1.2,0.82
+112,What is the process by which cells convert glucose into energy?,Science and Technology,Glycolysis,Photosynthesis,Metamorphosis,Meiosis,Option A,-0.45,0.66
+113,"Who is often referred to as the ""father of genetics""?",Science and Technology,Albert Einstein,Charles Darwin,Gregor Mendel,Isaac Newton,Option C,1.4,1.2
+114,What is the name of the first satellite launched into space?,Science and Technology,Explorer 1,Sputnik 1,Telstar 1,Vanguard 1,Option B,0.89,0.94
+115,What is the process by which cells use oxygen and nutrients to create energy in living organisms?,Science and Technology,Photosynthesis,Cellular Respiration,Reproduction,Fermentation,Option B,0.42,0.79
+116,Who invented the World Wide Web?,Science and Technology,Tim Berners-Lee,Steve Jobs,Bill Gates,Mark Zuckerberg,Option A,-0.42,0.57
+117,What is the smallest unit of life?,Science and Technology,Cell,Atom,Molecule,Organ,Option A,-0.47,0.89
+118,What is the process by which sound is amplified in a microphone?,Science and Technology,Reflection,Refraction,Amplification,Absorption,Option C,-2.7,0.45
+119,Which scientist is known for discovering the concept of gravity?,Science and Technology,Isaac Newton,Albert Einstein,Marie Curie,Charles Darwin,Option A,-1.9,0.55
+120,What is the largest internal organ in the human body?,Science and Technology,Kidney,Liver,Brain,Heart,Option B,-0.25,0.65
+121,Who invented the first functional telephone?,Science and Technology,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Marie Curie,Option A,-0.75,0.59
+122,Who invented the first commercially successful light bulb?,Science and Technology,Thomas Edison,Alexander Graham Bell,Marie Curie,Albert Einstein,Option A,-0.45,0.67
+123,"Who is known as the ""father of modern physics""?",Science and Technology,Albert Einstein,Isaac Newton,Galileo Galilei,Stephen Hawking,Option A,-0.24,0.58
+124,What is the most abundant gas in Earth's atmosphere?,Science and Technology,Nitrogen,Oxygen,Carbon dioxide,Argon,Option A,0.36,0.74
+125,What is the smallest unit of measurement used to measure the length of an atom?,Science and Technology,Angstrom,Nanometer,Centimeter,Millimeter,Option A,-0.54,0.57
+126,When was the first personal computer released?,Science and Technology,1976,1981,1984,1990,Option A,0.49,0.78
+127,What is the process of converting seawater into drinking water called?,Science and Technology,Distillation,Desalination,Filtration,Purification,Option B,-1.3,0.59
+128,The study of the Earth's atmosphere and how it affects weather and climate is known as:,Science and Technology,Psychology,Meteorology,Sociology,Biology,Option B,-0.8,0.5
+129,"What element has the chemical symbol ""Fe""?",Science and Technology,Iron,Fluorine,Calcium,Gold,Option A,-0.23,0.67
+130,Which of the following elements is responsible for the red color in rubies?,Science and Technology,Iron,Chromium,Carbon,Copper,Option B,1.2,1.3
+131,Which of the following components is responsible for storing and retrieving data in a computer system?,Science and Technology,CPU,RAM,Hard drive,Motherboard,Option C,-0.23,0.58
+132,In which year did World War II officially end?,Historical Events,1939,1945,1949,1953,Option B,0.45,0.89
+133,"In which year did the Berlin Wall fall, marking the end of the Cold War?",Historical Events,1989,1991,1993,1987,Option A,1.52,1.4
+134,Which historical figure is credited with inventing the printing press and revolutionizing the spread of information in Europe during the 15th century?,Historical Events,Leonardo da Vinci,Johannes Gutenberg,William Shakespeare,Christopher Columbus,Option B,0.52,0.89
+135,In what year did the United States declare its independence?,Historical Events,1776,1796,1876,1976,Option A,-0.89,0.57
+136,Who was the first president of the United States?,Historical Events,George Washington,Thomas Jefferson,John Adams,Abraham Lincoln,Option A,-1.5,0.54
+137,In what year did the United States enter World War II?,Historical Events,1918,1939,1941,1945,Option C,1.8,1.4
+138,In what year did the British East India Company gain control of India?,Historical Events,1642,1858,1787,1914,Option B,1.5,0.98
+139,Who was the first female pilot to fly solo across the Atlantic Ocean?,Historical Events,Amelia Earhart,Bessie Coleman,Sally Ride,Jane Austen,Option A,2.4,1.6
+140,Who was the first female astronaut to travel to space?,Historical Events,Sally Ride,Valentina Tereshkova,Mae Jemison,Kalpana Chawla,Option B,1.8,1.4
+141,What event sparked the start of World War II?,Historical Events,Assassination of Archduke Franz Ferdinand,Attack on Pearl Harbor,Treaty of Versailles,Invasion of Poland,Option D,1.94,1.32
+142,Which famous president delivered the Gettysburg Address during the American Civil War?,Historical Events,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,Option A,0.52,0.762
+143,Who was the first female to win a Nobel Prize?,Historical Events,Marie Curie,Amelia Earhart,Rosa Parks,Queen Elizabeth I,Option A,-0.24,0.62
+144,Which country was the first to launch a man-made satellite into orbit?,Historical Events,United States,Soviet Union,China,Japan,Option B,0.32,0.78
+145,"In what year did the Civil Rights Act, which prohibited discrimination based on race, color, religion, sex, or national origin, become law in the United States?",Historical Events,1964,1956,1976,1986,Option A,1.2,0.92
+146,What event marked the end of World War I?,Historical Events,The signing of the Treaty of Versailles,The bombing of Pearl Harbor,The Battle of Stalingrad,The sinking of the Titanic,Option A,0.52,0.76
+147,Which country was the first to send man to the moon?,Historical Events,United States,Russia,China,Japan,Option A,-0.8,0.57
+148,"Which of the following historical figures is known for writing the influential document, ""Common Sense""?",Historical Events,George Washington,Thomas Jefferson,Benjamin Franklin,Thomas Paine,Option D,1.88,1.23
+149,"Which famous historical figure is associated with the quote, ""I have a dream""?",Historical Events,Martin Luther King Jr.,Abraham Lincoln,Winston Churchill,Mahatma Gandhi,Option A,-0.23,0.59
+150,"In what year did the United States ratify the 19th Amendment, granting women the right to vote?",Historical Events,1919,1920,1921,1922,Option B,2.8,1.2
+151,In which year did the Battle of Gettysburg take place during the American Civil War?,Historical Events,1860,1861,1862,1863,Option D,2.6,1.3
+152,Which historical event marked the beginning of the American Revolution?,Historical Events,The Boston Tea Party,Battles of Lexington and Concord ,The Boston Massacre,The Intolerable Acts,Option B,1.62,0.98
+153,Which European country was not part of the Allies during World War II?,Historical Events,Italy,Germany,Norway,France,Option B,0.974,0.948
+154,"What year did Martin Luther King Jr. deliver his iconic ""I Have a Dream"" speech during the March on Washington?",Historical Events,1963,1965,1968,1972,Option A,2.92,1.763
+155,Which of the following leaders was not a part of the Potsdam Conference held in 1945 to discuss the division of post-war Europe?,Historical Events,Winston Churchill,Franklin D. Roosevelt,Joseph Stalin,Charles de Gaulle,Option D,1.32,0.992
+156,What was the purpose of the Emancipation Proclamation issued by President Abraham Lincoln during the American Civil War?,Historical Events,To declare war on the Confederate States of America,To abolish slavery throughout the United States,To establish the first national holiday in the United States,To expand the United States' territory into the western regions,Option B,-0.42,0.6472
+157,"Which US president signed the Emancipation Proclamation, officially abolishing slavery in the country?",Historical Events,Abraham Lincoln,George Washington,Thomas Jefferson,Andrew Jackson,Option A,-0.72,0.532
+158,Which event marked the beginning of the American Civil War?,Historical Events,The Battle of Gettysburg,The Emancipation Proclamation,The Attack on Fort Sumter,The Surrender at Appomattox Courthouse,Option C,1.92,1.04
+159,During what year did Christopher Columbus first set foot on the island of Hispaniola?,Historical Events,1492,1493,1494,1495,Option A,3,0.83
+160,In what year did the Korean War begin?,Historical Events,1950,1953,1960,1945,Option A,2.25,1
+161,When did the American Civil War end?,Historical Events,1865,1877,1899,1905,Option A,1.62,1.42
+162,What famous historical event was sparked by the assassination of Archduke Franz Ferdinand?,Historical Events,World War I,The French Revolution,The American Civil War,The Holocaust,Option A,0.82,0.99
+163,"Which historical event took place on June 6, 1944?",Historical Events,The bombing of Pearl Harbor,The signing of the Declaration of Independence,The sinking of the Titanic,The invasion of Normandy,Option D,0.98,1.2
+164,Who was the first African American woman to win an individual Olympic gold medal?,Historical Events,Florence Griffith-Joyner,Wilma Rudolph,Alice Coachman,Marion Jones,Option C,2.5,1.4
